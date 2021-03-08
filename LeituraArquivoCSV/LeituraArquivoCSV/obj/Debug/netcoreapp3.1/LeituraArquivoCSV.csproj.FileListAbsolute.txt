@@ -1,0 +1,13 @@
+C:\Users\Marcus\source\repos\LeituraArquivoCSV\LeituraArquivoCSV\obj\Debug\netcoreapp3.1\LeituraArquivoCSV.csprojAssemblyReference.cache
+C:\Users\Marcus\source\repos\LeituraArquivoCSV\LeituraArquivoCSV\obj\Debug\netcoreapp3.1\LeituraArquivoCSV.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\source\repos\LeituraArquivoCSV\LeituraArquivoCSV\obj\Debug\netcoreapp3.1\LeituraArquivoCSV.AssemblyInfoInputs.cache
+C:\Users\Marcus\source\repos\LeituraArquivoCSV\LeituraArquivoCSV\obj\Debug\netcoreapp3.1\LeituraArquivoCSV.AssemblyInfo.cs
+C:\Users\Marcus\source\repos\LeituraArquivoCSV\LeituraArquivoCSV\bin\Debug\netcoreapp3.1\LeituraArquivoCSV.exe
+C:\Users\Marcus\source\repos\LeituraArquivoCSV\LeituraArquivoCSV\bin\Debug\netcoreapp3.1\LeituraArquivoCSV.deps.json
+C:\Users\Marcus\source\repos\LeituraArquivoCSV\LeituraArquivoCSV\bin\Debug\netcoreapp3.1\LeituraArquivoCSV.runtimeconfig.json
+C:\Users\Marcus\source\repos\LeituraArquivoCSV\LeituraArquivoCSV\bin\Debug\netcoreapp3.1\LeituraArquivoCSV.runtimeconfig.dev.json
+C:\Users\Marcus\source\repos\LeituraArquivoCSV\LeituraArquivoCSV\bin\Debug\netcoreapp3.1\LeituraArquivoCSV.dll
+C:\Users\Marcus\source\repos\LeituraArquivoCSV\LeituraArquivoCSV\bin\Debug\netcoreapp3.1\LeituraArquivoCSV.pdb
+C:\Users\Marcus\source\repos\LeituraArquivoCSV\LeituraArquivoCSV\obj\Debug\netcoreapp3.1\LeituraArquivoCSV.dll
+C:\Users\Marcus\source\repos\LeituraArquivoCSV\LeituraArquivoCSV\obj\Debug\netcoreapp3.1\LeituraArquivoCSV.pdb
+C:\Users\Marcus\source\repos\LeituraArquivoCSV\LeituraArquivoCSV\obj\Debug\netcoreapp3.1\LeituraArquivoCSV.genruntimeconfig.cache
