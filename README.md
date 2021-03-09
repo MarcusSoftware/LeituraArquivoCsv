@@ -1,9 +1,10 @@
 # LeituraArquivoCsv
 
-Objetivo: Ler um arquivo .csv, esta arquivo não possui cabeçalho, são 6 colunas conforme descrição abaixo:
+Objetivo: Ler um arquivo .csv, este arquivo não possui cabeçalho, são 6 colunas conforme descrição abaixo:
 
 Exemplo Arquivo:  ID;NOME;CARGO;CIDADE;QUANTIDADE_VENDIDA;VALOR_VENDA
-123;MARCUS VINICIUS;CONSULTOR;BELO HORIZONTE;200;3000
+
+Linha arquivo: 123;MARCUS VINICIUS;CONSULTOR;BELO HORIZONTE;200;3000
 
 Neste exemplo você vai ver:
   * Leitura de um arquivo
